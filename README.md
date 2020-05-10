@@ -25,7 +25,6 @@ start_date = '2017-07-01'
 end_date = '2018-08-01'
 # Boomsblerg formatting
 plt.style.use(['dark_background'])
-# plt.rcParams['axes.facecolor'] = 'navy'
 
 # Define Variables for stock
 d = df['Date']

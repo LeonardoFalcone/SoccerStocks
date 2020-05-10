@@ -23,7 +23,7 @@ dfl = pd.read_excel(SHEET2, 'Loss')
 ticker1 = 'MANU'
 start_date = '2017-07-01'
 end_date = '2018-08-01'
-# Boomsblerg formatting
+# Dark background formatting
 plt.style.use(['dark_background'])
 
 # Define Variables for stock
